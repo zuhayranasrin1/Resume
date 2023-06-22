@@ -1,0 +1,60 @@
+img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    
+}
+
+.flower {
+    width: 500px;
+    height: 300px;
+    object-fit: contain;
+    background-color: burlywood;
+    
+}
+
+#main-photo {
+    width: 800px;
+    height: 400px;
+}
+
+h1 {
+    background-color: #E4C2C688;
+}
+
+.Experience {
+    background-color: #E4C2C688;
+    bottom: 60px;
+    position: sticky;
+    top: 0px;
+}
+
+nav {
+    display: flex;
+    gap: 16px;
+}
+
+a {
+    all: unset;
+    border: 1px solid red;
+    padding: 8px 16px;
+    border-radius: 6px;
+    background-color: aquamarine;
+    color: blueviolet;
+}
+
+.projects h1 {
+    font-size: 100px;
+    color: red;
+}
+
+h1.skills {
+    font-size: 30px;
+    color: blue;
+}
+
+.email {
+    background-color: #E2A5E2;
+    color: #041F1E;
+}
+
